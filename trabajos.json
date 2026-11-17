@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ejemplo-reforma-integral",
+    "titulo": "Reforma integral de cocina",
+    "servicio": "reforma-integral",
+    "fecha": "2026-11-20",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/reforma-integral-1.svg",
+      "img/ejemplo/reforma-integral-2.svg",
+      "img/ejemplo/reforma-integral-3.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-alicatados",
+    "titulo": "Baño alicatado",
+    "servicio": "alicatados",
+    "fecha": "2026-11-19",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/alicatados-1.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-albanileria",
+    "titulo": "Muro de ladrillo",
+    "servicio": "albanileria",
+    "fecha": "2026-11-18",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/albanileria-1.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-pladur",
+    "titulo": "Techo de pladur",
+    "servicio": "pladur",
+    "fecha": "2026-11-17",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/pladur-1.svg",
+      "img/ejemplo/pladur-2.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-pintura",
+    "titulo": "Pintura de salón",
+    "servicio": "pintura",
+    "fecha": "2026-11-16",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/pintura-1.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-fontaneria",
+    "titulo": "Cambio de tuberías",
+    "servicio": "fontaneria",
+    "fecha": "2026-11-15",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/fontaneria-1.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-electricidad",
+    "titulo": "Instalación eléctrica",
+    "servicio": "electricidad",
+    "fecha": "2026-11-14",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/electricidad-1.svg"
+    ],
+    "ejemplo": true
+  },
+  {
+    "id": "ejemplo-soldadura",
+    "titulo": "Barandilla soldada",
+    "servicio": "soldadura",
+    "fecha": "2026-11-13",
+    "descripcion": "Ejemplo: aquí irá una frase corta sobre el trabajo, por ejemplo el barrio o lo que se hizo.",
+    "fotos": [
+      "img/ejemplo/soldadura-1.svg"
+    ],
+    "ejemplo": true
+  }
+]

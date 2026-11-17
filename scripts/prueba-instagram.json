@@ -1,0 +1,21 @@
+{
+  "usuario": "cuenta_de_prueba",
+  "publicaciones": [
+    { "id": "9001", "media_type": "CAROUSEL_ALBUM", "timestamp": "2026-11-14T10:00:00+0000", "permalink": "https://www.instagram.com/p/prueba1/",
+      "caption": "Baño completo en Puertollano\nQuitamos la bañera y pusimos plato de ducha.\n#alicatados #reformas #puertollano",
+      "children": { "data": [
+        { "id": "9001a", "media_type": "IMAGE", "media_url": "img/ejemplo/alicatados-1.svg" },
+        { "id": "9001b", "media_type": "IMAGE", "media_url": "img/ejemplo/reforma-integral-2.svg" },
+        { "id": "9001c", "media_type": "VIDEO", "media_url": "x.mp4", "thumbnail_url": "img/ejemplo/reforma-integral-3.svg" } ] } },
+    { "id": "9002", "media_type": "IMAGE", "timestamp": "2026-11-12T10:00:00+0000", "permalink": "https://www.instagram.com/p/prueba2/",
+      "caption": "Techo de pladur con foco empotrado en un salón muy grande de una casa de campo a las afueras #Pladur", "media_url": "img/ejemplo/pladur-1.svg" },
+    { "id": "9003", "media_type": "VIDEO", "timestamp": "2026-11-10T10:00:00+0000", "permalink": "https://www.instagram.com/reel/prueba3/",
+      "caption": "Así queda la fachada #pintura", "media_url": "x.mp4", "thumbnail_url": "img/ejemplo/pintura-1.svg" },
+    { "id": "9004", "media_type": "IMAGE", "timestamp": "2026-11-09T10:00:00+0000", "permalink": "https://www.instagram.com/p/prueba4/",
+      "caption": "Feliz domingo a todos #noweb", "media_url": "img/ejemplo/albanileria-1.svg" },
+    { "id": "9005", "media_type": "IMAGE", "timestamp": "2026-11-08T10:00:00+0000", "permalink": "https://www.instagram.com/p/prueba5/",
+      "media_url": "img/ejemplo/soldadura-1.svg" },
+    { "id": "9006", "media_type": "VIDEO", "timestamp": "2026-11-07T10:00:00+0000", "permalink": "https://www.instagram.com/reel/prueba6/",
+      "caption": "Vídeo con música con derechos #fontaneria" }
+  ]
+}
